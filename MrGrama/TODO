@@ -1,0 +1,10 @@
+- Shuffle Riddle-List as Thread
+- Show sentences
+- Reload sentences 
+- Remove, add sentence
+- Store statistics and wrong-counter
+- Separate checkwords (mir, dir, ihr, ihm, euch, ihnen,...)
+- Add "powered by freedictionary.org"
+- Wipe instead of arrows 
+- Use also smile-crew.de as resource, and keep pending until there is content
+- Create logger on smile-crew.de to check for incoming requests
